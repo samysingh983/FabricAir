@@ -108,5 +108,8 @@ pytest tests/
 - Uvicorn
 
 ## Sample Image of Static file
-Visualization for histogram
-Visualization for scatter
+Visualization for histogram:
+![alt text](015c8ee6-e3d4-4222-b991-8751b9608849.png)
+
+Visualization for scatter:
+![alt text](da2d9379-a721-425b-815e-9f8ff1643fce.png)
