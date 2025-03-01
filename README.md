@@ -34,6 +34,10 @@ fabricair_data_api/
 │── README.md                       
 
 ```
+## Setup
+### 1.Clone the Repository
+git clone https://github.com/samysingh983/FabricAir.git
+cd FabricAir
 
 ## Installation
 
